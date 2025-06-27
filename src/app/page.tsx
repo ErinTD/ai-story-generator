@@ -59,7 +59,7 @@ export default function StoryGenerator() {
   return (
     <main style={{ padding: "2rem", maxWidth: "700px", margin: "0 auto", fontFamily: "sans-serif" }}>
       <header style={{ textAlign: "center", marginBottom: "2rem" }}>
-        <Image src="/storygeneratorbanner.PNG" alt="Banner" width={700} height={150} />
+        <Image src="/storygeneratorbanner.png" alt="Banner" width={700} height={150} />
         <h1 style={{ fontSize: "2rem", fontWeight: "bold", marginTop: "1rem" }}>AI Story Generator</h1>
       </header>
 
